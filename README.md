@@ -83,6 +83,6 @@ More projects here → **https://www.azulrk.com/projects**
 
 - **Portfolio:** https://www.azulrk.com  
 - **GitHub:** https://github.com/AzulRK22  
-- **LinkedIn:** *(Add your link here)*  
+- **LinkedIn:** https://www.linkedin.com/in/azulrk/
 
 If you want to collaborate on AI, sustainability, or mobility projects — I’m always open to building something cool 🚀
