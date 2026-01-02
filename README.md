@@ -1,4 +1,4 @@
-# Hi, I'm Azul Grisel Ramírez Kuri 👋  
+# Hi, I'm Azul Kuri 👋  
 ### Systems Engineer · Frontend & AI Developer · Hackathon Builder
 
 I’m a systems engineer based in CDMX, passionate about building clean interfaces, agentic AI prototypes, and socially impactful tech.  
